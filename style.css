@@ -72,4 +72,8 @@ span:hover{
         width: 100vw;
         grid-template-columns: repeat(4, auto);
     }
+    
+    span{
+        font-size: 1.2rem;
+    }
 }
